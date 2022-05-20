@@ -1,7 +1,7 @@
 ### Coe, meu nome é Paulo Ricardo e este é o meu perfil.🏝️
 
 - 🍺 I’m currently working on AMBEV
-- 🧑‍🎓 I’m studing at CEFET-RJ Collage
+- 🧑‍🎓 I’m studing at CEFET-RJ College
 - ⚡ I’m from Brasil but I speak english fluently
 
 <div align="center">
