@@ -1,8 +1,8 @@
-### Coe, meu nome é Paulo Ricardo e este é o meu perfil.🏝️
+### Olá, meu nome é Paulo Ricardo e este é o meu perfil.🏝️
 
 - 🍺 I’m currently working on AMBEV
 - 🧑‍🎓 I’m studing at CEFET-RJ College
-- ⚡ I’m from Brasil but I speak english fluently
+- ⚡ I’m from Brasil but I speak english
 
 <div align="center">
   <a href="https://github.com/itpaulin">
