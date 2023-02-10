@@ -1,6 +1,6 @@
 ### Olá, meu nome é Paulo Ricardo e este é o meu perfil.🏝️
 
-- 🍺 I’m currently working on AMBEV
+- 🍺 I’m currently working on A4PM Analytics for Public Management
 - 🧑‍🎓 I’m studing at CEFET-RJ College
 - ⚡ I’m from Brasil but I speak english
 
