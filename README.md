@@ -6,9 +6,7 @@
 - ⚡ I’m from Brasil but I speak english
 
 <div align="center">
-  <a href="https://github.com/itpaulin">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=itpaulin&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  
+  <a href="https://github.com/itpaulin">  
 </div>
   
   <div style="display: inline_block"><br>
