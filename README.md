@@ -1,4 +1,4 @@
-### Hi, my name is Paulo Ricardo and this are my profile, welcome!🏝️
+### Hi, my name is Paulo Ricardo and this is my profile, welcome!🏝️
 
 - 💻I’m currently working on A4PM Analytics for Public Management. 
 - 🏥 I'm in the team ESUSNG, a web software to public hospitals.
