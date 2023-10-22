@@ -1,7 +1,6 @@
 ### Hi, my name is Paulo Ricardo and this is my profile, welcome!🏝️
 
 - 💻I’m currently working on A4PM Analytics for Public Management. 
-- 🏥 I'm in the team ESUSNG, a web software to public hospitals.
 - 🧑‍🎓 I’m studing at CEFET-RJ College
 - ⚡ I’m from Brasil but I speak english
 
