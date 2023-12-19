@@ -1,6 +1,6 @@
 ### Hi, my name is Paulo Ricardo and this is my profile, welcome!🏝️
 
-- 💻I’m currently searching for a job Full Stack. 
+- 💻I’m currently searching for a Full Stack job. 
 - 🧑‍🎓 I’m studing at CEFET-RJ College
 - ⚡ I’m from Brasil but I speak english
 
