@@ -2,7 +2,7 @@
 
 - 💻I’m currently searching for a Full Stack Engineer job. 
 - 🧑‍🎓 I’m studing at CEFET-RJ College
-- ⚡ I’m from Brasil but I speak english
+- ⚡ I’m currently studing React and NextJs advanced
 
 <div align="center">
   <a href="https://github.com/itpaulin">  
