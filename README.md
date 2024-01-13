@@ -4,6 +4,9 @@
 - 🧑‍🎓 I’m studing at CEFET-RJ College
 - ⚡ I’m currently studing React and NextJs advanced
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReisLuizito&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReisLuizito&layout=compact&theme=radical)
+
 <div align="center">
   <a href="https://github.com/itpaulin">  
 </div>
