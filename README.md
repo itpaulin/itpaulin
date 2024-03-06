@@ -1,8 +1,8 @@
 ### Hi, my name is Paulo Ricardo and this is my profile, welcome!🏝️
 
-- 💻I’m currently searching for a Open Source Project that I can contribute.
+- 🧑🏻‍💻 I'm working at Movisis - Joinville - SC
+- 💻 I’m currently searching for a Open Source Project that I can contribute.
 - 🧑‍🎓 I’m studing at CEFET-RJ College
-- ⚡ I’m currently studing React Native.
 
 <div align="center">
   <a href="https://github.com/itpaulin">  
