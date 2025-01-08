@@ -1,6 +1,5 @@
 ### Hi, my name is Paulo Ricardo and this is my profile, welcome!🏝️
 
-- 🧑🏻‍💻 I'm working at Movisis - Joinville - SC
 - 💻 I’m currently searching for a Open Source Project that I can contribute.
 - 🧑‍🎓 I’m studing at CEFET-RJ College
 
