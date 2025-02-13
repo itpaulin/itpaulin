@@ -1,6 +1,6 @@
 ### Hi, my name is Paulo Ricardo and this is my profile, welcome!🏝️
 
-- 💻 I’m currently searching for a Open Source Project that I can contribute.
+- 💻 I’m currently working and study a lot about Golang.
 - 🧑‍🎓 I’m studing at CEFET-RJ College
 
 <div align="center">
